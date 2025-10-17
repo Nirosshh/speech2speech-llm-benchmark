@@ -1,0 +1,7 @@
+*.env
+.env
+*.ipynb
+Open AI/
+Gemini/
+__pycache__/
+*.log
