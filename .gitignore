@@ -8,3 +8,5 @@ __pycache__/
 *.env
 keys.env
 Open AI/keys.env
+*.env
+Open AI/keys.env
