@@ -1,0 +1,4 @@
+model,status,ttfb_min,ttfb_avg,ttfb_max,t2last_min,t2last_avg,t2last_max,total_min,total_avg,total_max,max_output_tokens,temperature,candidate_count,pro_thinking_budget,sweep
+models/gemini-2.5-flash,ok,0.7814365999656729,1.0936791999847628,1.567899200017564,0.3546368000097573,1.3193512000143528,1.8662102000089362,2.441983600030653,2.5887421333463863,2.800470200018026,128,0.5,1,0,candidates=1
+models/gemini-2.5-flash,"400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Only one candidate can be specified in the current model', 'status': 'INVALID_ARGUMENT'}}",,,,,,,,,,128,0.5,2,0,candidates=2
+models/gemini-2.5-flash,"400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Only one candidate can be specified in the current model', 'status': 'INVALID_ARGUMENT'}}",,,,,,,,,,128,0.5,3,0,candidates=3

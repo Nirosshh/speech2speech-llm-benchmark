@@ -1,0 +1,5 @@
+model,status,ttfb_min,ttfb_avg,ttfb_max,t2last_min,t2last_avg,t2last_max,total_min,total_avg,total_max,max_output_tokens,temperature,candidate_count,pro_thinking_budget,sweep
+models/gemini-2.5-flash,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",,,,,,,,,,128,0.0,1,0,temperature=0.0
+models/gemini-2.5-flash,ok,0.619608299981337,1.0422704666658926,1.510349199990742,0.2623386000050232,2.058254166661451,3.1328691999660805,0.9336383999907412,3.1204733999911696,4.294588599994313,128,0.2,1,0,temperature=0.2
+models/gemini-2.5-flash,ok,0.6094572999863885,0.9305561999984396,1.2143457000493072,1.5725654999841936,1.774847099984375,1.9828468999476172,2.183325899997726,2.7068408666721857,3.197676300012972,128,0.5,1,0,temperature=0.5
+models/gemini-2.5-flash,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",,,,,,,,,,128,0.9,1,0,temperature=0.9

@@ -1,0 +1,4 @@
+model,status,ttfb_min,ttfb_avg,ttfb_max,t2last_min,t2last_avg,t2last_max,total_min,total_avg,total_max,max_output_tokens,temperature,candidate_count,pro_thinking_budget,sweep
+models/gemini-2.5-pro,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",,,,,,,,,,128,0.5,1,128,budget=128
+models/gemini-2.5-pro,"503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The model is overloaded. Please try again later.', 'status': 'UNAVAILABLE'}}",,,,,,,,,,128,0.5,1,256,budget=256
+models/gemini-2.5-pro,"429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.",,,,,,,,,,128,0.5,1,512,budget=512

@@ -60,4 +60,10 @@ Connect a Socket.IO client to see events: `partial_transcript`, `llm_token`, `ll
 
 ## Notes
 
+<<<<<<< HEAD
 - Latency depends on network and time of day. Run each test several times and report the average.
+=======
+- Do not commit your API keys.
+- Latency depends on network and time of day. Run each test several times and report the average.
+- You can commit `results_latency.csv` as evidence with your slide screenshots.
+>>>>>>> 609e19c (Initial commit - personal LLM latency benchmark project)
